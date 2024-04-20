@@ -1,0 +1,42 @@
+Development of Calendar Application
+
+Introduction:
+The purpose of this project was to develop a calendar application in C++ that allows users to manage events, view calendars for specific months and years, and log in securely to access their personalized calendars.
+
+Project Scope:
+The scope of the project included:
+- Implementation of a calendar system capable of displaying months, years, and days.
+- User authentication system to access personalized calendars.
+- Addition of events to specific dates.
+- Displaying events for a given date.
+
+Technologies Used:
+- C++: Chosen as the programming language due to its versatility and efficiency for system-level programming.
+- Object-Oriented Programming (OOP) Principles: Employed to create modular and reusable code, enhancing maintainability and scalability.
+
+Key Features Implemented:
+- User Authentication: Implemented a login system requiring a unique account number and password for access.
+- Calendar Generation: Developed functions to generate calendars for specific months and years, including support for leap years.
+- Event Management: Enabled users to add events to specific dates, with validation to ensure accurate date-time input.
+
+
+
+
+Design and Implementation:
+- Class Structure: Designed a class hierarchy with a base `Calendar` class and a derived `calendar_2024` class for specific calendar functionalities.
+- Data Structures: Used arrays to store account information and event details efficiently.
+- Algorithms: Employed algorithms to calculate leap years, determine the number of days in a month, and find the starting day of a month.
+
+Challenges Faced:
+- Date Validation: Ensuring accurate date-time input and validating it against the current date posed a challenge due to the complexity of handling different date formats and leap years.
+-User Interface: Designing a user-friendly interface while adhering to the command-line environment was challenging, requiring clear prompts and error messages.
+
+Conclusion:
+In conclusion, the development of the calendar application project provided valuable insights into C++ programming and OOP principles. Despite challenges, the project achieved its objectives and laid a foundation for future enhancements and improvements.
+
+References:
+- [C++ Standard Template Library Documentation] (https://en.cppreference.com/w/cpp/header)
+- [Object-Oriented Programming in C++] (https://www.learncpp.com/cpp-tutorial/)
+- [C++ Programming Language] (https://www.cplusplus.com/doc/)
+- [Leap Year Calculation Algorithm] (https://en.wikipedia.org/wiki/Leap_year#Algorithm)
+
