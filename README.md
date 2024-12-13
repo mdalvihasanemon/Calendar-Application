@@ -4,6 +4,8 @@
 
 The Calendar Application is a sophisticated tool built in C++ that allows users to securely log in and access personalized calendars. The application offers the ability to view calendars for specific months and years, manage events, and interact with a clean, user-friendly interface. The system supports leap years, provides event management features, and employs best practices in object-oriented programming (OOP) to ensure maintainability, scalability, and efficiency.
 
+![logo](https://github.com/mdalvihasanemon/Calendar-Application-UI-UX/blob/main/original-27b222ee1885138137d53ff6c0c493c2.jpg)
+
 ## Key Features
 
 ### 1. **User Authentication**
